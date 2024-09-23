@@ -1,4 +1,5 @@
 :root {
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
     --branco-principal: #FFFFFF;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #167BF7;
@@ -6,7 +7,7 @@
     --fonte-principal: 'Inter';
     --botao-azul-efeito: #3c92fa;
 }
-
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
@@ -27,7 +28,7 @@ body {
     align-items: center;
     text-align: center;
 }
-
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
 .container {
     height: 100vh;
     display: grid;
@@ -48,7 +49,7 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
-
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
 .container__aviso {
     font-size: 12px;
     color: var(--cinza-secundario);
@@ -75,7 +76,7 @@ body {
     align-items: center;
     margin: 0 10em;
 }
-
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
 .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
@@ -116,7 +117,7 @@ body {
     font-size: 32px;
     color: var(--branco-principal);
 }
-
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
 .rodape {
     text-align: center;
     margin: 5em 3em;
@@ -153,3 +154,4 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+    /*Alessandra Camargo Barbetta 3D 23/09/2024*/
